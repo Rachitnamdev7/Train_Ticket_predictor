@@ -6,6 +6,8 @@ pandas
 <br>
 scikit-learn
 <br>
+joblib
+<br>
 Installed in your system
 <br>
 
